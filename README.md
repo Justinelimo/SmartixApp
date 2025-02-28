@@ -1,0 +1,2 @@
+# SmartixApp
+Eclectics Capstone Project
